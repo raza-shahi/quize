@@ -1,0 +1,310 @@
+{
+  "quiz_title": "Multi-Topic Assessment Quiz",
+  "total_sections": 4,
+  "sections": [
+    {
+      "section_id": 1,
+      "topic": "General Knowledge",
+      "questions": [
+        {
+          "question_id": "gk_01",
+          "question": "Which country is known as the Land of the Rising Sun?",
+          "options": ["China", "Japan", "South Korea", "Thailand"],
+          "correct_answer": "Japan",
+          "explanation": "Japan is called 'Nihon' or 'Nippon' in Japanese, which literally translates to 'the sun's origin' or the Land of the Rising Sun."
+        },
+        {
+          "question_id": "gk_02",
+          "question": "What is the capital city of Australia?",
+          "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+          "correct_answer": "Canberra",
+          "explanation": "Canberra was selected as the capital in 1908 as a compromise between rivals Sydney and Melbourne."
+        },
+        {
+          "question_id": "gk_03",
+          "question": "Which is the largest ocean on Earth?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+          "correct_answer": "Pacific Ocean",
+          "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface area, making it larger than all the Earth's land area combined."
+        },
+        {
+          "question_id": "gk_04",
+          "question": "Who wrote the play 'Romeo and Juliet'?",
+          "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+          "correct_answer": "William Shakespeare",
+          "explanation": "William Shakespeare wrote 'Romeo and Juliet' early in his career, between 1591 and 1595."
+        },
+        {
+          "question_id": "gk_05",
+          "question": "Which is the longest river in the world?",
+          "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+          "correct_answer": "Nile River",
+          "explanation": "The Nile River stretches roughly 6,650 kilometers (4,132 miles) through northeastern Africa."
+        },
+        {
+          "question_id": "gk_06",
+          "question": "In which city is the headquarters of the United Nations located?",
+          "options": ["Geneva", "Paris", "New York City", "London"],
+          "correct_answer": "New York City",
+          "explanation": "The primary headquarters of the UN has been in the Manhattan borough of New York City since 1952."
+        },
+        {
+          "question_id": "gk_07",
+          "question": "Which continent contains the Sahara Desert?",
+          "options": ["Asia", "Africa", "South America", "Australia"],
+          "correct_answer": "Africa",
+          "explanation": "The Sahara is the largest hot desert in the world, spanning across North Africa."
+        },
+        {
+          "question_id": "gk_08",
+          "question": "What is the national currency of the United Kingdom?",
+          "options": ["Euro", "Dollar", "Pound Sterling", "Franc"],
+          "correct_answer": "Pound Sterling",
+          "explanation": "The Pound Sterling (GBP) is the official currency of the United Kingdom and its territories."
+        },
+        {
+          "question_id": "gk_09",
+          "question": "Which bird is universally recognized as a symbol of peace?",
+          "options": ["Dove", "Eagle", "Swan", "Owl"],
+          "correct_answer": "Dove",
+          "explanation": "A white dove, often carrying an olive branch, is widely recognized as a symbol of peace."
+        },
+        {
+          "question_id": "gk_10",
+          "question": "What is the tallest mountain peak in the world above sea level?",
+          "options": ["K2", "Mount Kilimanjaro", "Mount Everest", "Kangchenjunga"],
+          "correct_answer": "Mount Everest",
+          "explanation": "Mount Everest reaches an elevation of 8,848.86 meters above sea level in the Himalayas."
+        }
+      ]
+    },
+    {
+      "section_id": 2,
+      "topic": "Science",
+      "questions": [
+        {
+          "question_id": "sci_01",
+          "question": "What is the primary chemical element that makes up the diamond?",
+          "options": ["Carbon", "Silicon", "Nitrogen", "Quartz"],
+          "correct_answer": "Carbon",
+          "explanation": "A diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic."
+        },
+        {
+          "question_id": "sci_02",
+          "question": "Which organ in the human body is primarily responsible for filtering blood?",
+          "options": ["Heart", "Liver", "Kidneys", "Lungs"],
+          "correct_answer": "Kidneys",
+          "explanation": "The kidneys filter wastes and excess fluids from your blood, which are then excreted in urine."
+        },
+        {
+          "question_id": "sci_03",
+          "question": "Which gas do plants primarily absorb during the process of photosynthesis?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+          "correct_answer": "Carbon Dioxide",
+          "explanation": "Plants take in carbon dioxide and water to produce glucose and release oxygen into the atmosphere."
+        },
+        {
+          "question_id": "sci_04",
+          "question": "What is the powerhouse organelle of the eukaryotic cell?",
+          "options": ["Ribosome", "Endoplasmic Reticulum", "Mitochondria", "Golgi Apparatus"],
+          "correct_answer": "Mitochondria",
+          "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions in the form of ATP."
+        },
+        {
+          "question_id": "sci_05",
+          "question": "What is the chemical formula for water?",
+          "options": ["CO2", "H2O", "NaCl", "CH4"],
+          "correct_answer": "H2O",
+          "explanation": "Water consists of two hydrogen atoms bonded to one oxygen atom."
+        },
+        {
+          "question_id": "sci_06",
+          "question": "Which planet in our solar system is known as the Red Planet?",
+          "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+          "correct_answer": "Mars",
+          "explanation": "Mars appears reddish because of the presence of iron oxide (rust) on its surface."
+        },
+        {
+          "question_id": "sci_07",
+          "question": "What is the speed of light in a vacuum approximately?",
+          "options": ["150,000 km/s", "300,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "correct_answer": "300,000 km/s",
+          "explanation": "The speed of light in vacuum is exactly 299,792 km/s, which is commonly rounded to 300,000 km/s."
+        },
+        {
+          "question_id": "sci_08",
+          "question": "Which metal is liquid at standard room temperature?",
+          "options": ["Iron", "Lead", "Mercury", "Aluminum"],
+          "correct_answer": "Mercury",
+          "explanation": "Mercury has a melting point of -38.83°C, making it liquid under standard room temperature conditions."
+        },
+        {
+          "question_id": "sci_09",
+          "question": "What type of acid is naturally found in lemons and limes?",
+          "options": ["Citric acid", "Lactic acid", "Sulfuric acid", "Acetic acid"],
+          "correct_answer": "Citric acid",
+          "explanation": "Citrus fruits contain high concentrations of citric acid, which gives them their sour taste."
+        },
+        {
+          "question_id": "sci_10",
+          "question": "Which part of the eye regulates the amount of light that enters?",
+          "options": ["Retina", "Iris", "Cornea", "Lens"],
+          "correct_answer": "Iris",
+          "explanation": "The iris controls the diameter and size of the pupil, regulating how much light reaches the retina."
+        }
+      ]
+    },
+    {
+      "section_id": 3,
+      "topic": "Math",
+      "questions": [
+        {
+          "question_id": "math_01",
+          "question": "What is the value of x if 3x + 7 = 22?",
+          "options": ["4", "5", "6", "7"],
+          "correct_answer": "5",
+          "explanation": "Subtract 7 from both sides to get 3x = 15. Dividing both sides by 3 gives x = 5."
+        },
+        {
+          "question_id": "math_02",
+          "question": "What is the total sum of the interior angles of a standard triangle?",
+          "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+          "correct_answer": "180 degrees",
+          "explanation": "The interior angles of any Euclidean triangle always add up to exactly 180 degrees."
+        },
+        {
+          "question_id": "math_03",
+          "question": "What is the square root of 144?",
+          "options": ["10", "11", "12", "14"],
+          "correct_answer": "12",
+          "explanation": "12 multiplied by 12 equals 144, making 12 the principal square root."
+        },
+        {
+          "question_id": "math_04",
+          "question": "What is the smallest prime number?",
+          "options": ["0", "1", "2", "3"],
+          "correct_answer": "2",
+          "explanation": "2 is the smallest prime number and the only even prime number, having exactly two positive divisors: 1 and itself."
+        },
+        {
+          "question_id": "math_05",
+          "question": "What is 15% of 200?",
+          "options": ["20", "25", "30", "35"],
+          "correct_answer": "30",
+          "explanation": "15% of 200 is calculated as (15 / 100) * 200 = 30."
+        },
+        {
+          "question_id": "math_06",
+          "question": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+          "options": ["26 cm", "40 cm", "13 cm", "30 cm"],
+          "correct_answer": "26 cm",
+          "explanation": "The perimeter of a rectangle is 2 * (length + width) = 2 * (8 + 5) = 26 cm."
+        },
+        {
+          "question_id": "math_07",
+          "question": "What is the value of 5 factorial (5!)?",
+          "options": ["60", "100", "120", "150"],
+          "correct_answer": "120",
+          "explanation": "5! is 5 * 4 * 3 * 2 * 1 = 120."
+        },
+        {
+          "question_id": "math_08",
+          "question": "What is the median of the set of numbers: 3, 7, 9, 12, 15?",
+          "options": ["7", "9", "12", "9.2"],
+          "correct_answer": "9",
+          "explanation": "In an ordered list of 5 values, the middle value (the third item) is 9."
+        },
+        {
+          "question_id": "math_09",
+          "question": "If a car travels at a speed of 60 km/h, how far will it travel in 2.5 hours?",
+          "options": ["120 km", "140 km", "150 km", "160 km"],
+          "correct_answer": "150 km",
+          "explanation": "Distance = Speed * Time = 60 * 2.5 = 150 km."
+        },
+        {
+          "question_id": "math_10",
+          "question": "What is the value of 2 raised to the power of 6 (2^6)?",
+          "options": ["32", "48", "64", "128"],
+          "correct_answer": "64",
+          "explanation": "2 multiplied by itself 6 times (2 * 2 * 2 * 2 * 2 * 2) equals 64."
+        }
+      ]
+    },
+    {
+      "section_id": 4,
+      "topic": "Indian History",
+      "questions": [
+        {
+          "question_id": "hist_01",
+          "question": "Who was the first Mughal Emperor of India?",
+          "options": ["Akbar", "Babur", "Humayun", "Shah Jahan"],
+          "correct_answer": "Babur",
+          "explanation": "Babur founded the Mughal Empire in India after defeating Ibrahim Lodi at the First Battle of Panipat in 1526."
+        },
+        {
+          "question_id": "hist_02",
+          "question": "In which year did India launch the Quit India Movement against British rule?",
+          "options": ["1930", "1942", "1945", "1947"],
+          "correct_answer": "1942",
+          "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942, during World War II, demanding an end to British rule in India."
+        },
+        {
+          "question_id": "hist_03",
+          "question": "Which Mauryan Emperor renounced violence and embraced Buddhism after the Kalinga War?",
+          "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Brihadratha"],
+          "correct_answer": "Ashoka",
+          "explanation": "Deeply affected by the mass destruction of the Kalinga War around 261 BCE, Emperor Ashoka renounced conquest and adopted Buddhism."
+        },
+        {
+          "question_id": "hist_04",
+          "question": "Who is known as the 'Iron Man of India' for his role in integrating the princely states?",
+          "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh"],
+          "correct_answer": "Sardar Vallabhbhai Patel",
+          "explanation": "Sardar Vallabhbhai Patel was given the title 'Iron Man of India' for his decisive leadership in unifying over 500 princely states into the Indian Union."
+        },
+        {
+          "question_id": "hist_05",
+          "question": "In which year was the First Battle of Panipat fought?",
+          "options": ["1526", "1556", "1761", "1576"],
+          "correct_answer": "1526",
+          "explanation": "The First Battle of Panipat was fought on 21 April 1526, laying the foundation of the Mughal Empire."
+        },
+        {
+          "question_id": "hist_06",
+          "question": "Who was the founder of the Maurya Empire?",
+          "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Harsha"],
+          "correct_answer": "Chandragupta Maurya",
+          "explanation": "Chandragupta Maurya founded the Maurya Empire around 322 BCE with the guidance of his advisor Chanakya."
+        },
+        {
+          "question_id": "hist_07",
+          "question": "Which famous freedom fighter gave the slogan 'Give me blood, and I shall give you freedom'?",
+          "options": ["Bhagat Singh", "Subhas Chandra Bose", "Lala Lajpat Rai", "Bal Gangadhar Tilak"],
+          "correct_answer": "Subhas Chandra Bose",
+          "explanation": "Netaji Subhas Chandra Bose gave this rallying call to the Indian National Army (INA) in Burma in 1944."
+        },
+        {
+          "question_id": "hist_08",
+          "question": "In which city did the Jallianwala Bagh massacre take place in 1919?",
+          "options": ["Lahore", "Amritsar", "Delhi", "Jalandhar"],
+          "correct_answer": "Amritsar",
+          "explanation": "The massacre occurred on April 13, 1919, in Amritsar, Punjab, under the orders of Brigadier-General Reginald Dyer."
+        },
+        {
+          "question_id": "hist_09",
+          "question": "Who served as the Chairman of the Drafting Committee of the Indian Constitution?",
+          "options": ["Dr. B. R. Ambedkar", "Dr. Rajendra Prasad", "Jawaharlal Nehru", "B. N. Rau"],
+          "correct_answer": "Dr. B. R. Ambedkar",
+          "explanation": "Dr. Bhimrao Ramji Ambedkar served as the Chairman of the Drafting Committee appointed in August 1947."
+        },
+        {
+          "question_id": "hist_10",
+          "question": "Which historic movement began with Mahatma Gandhi's Dandi March in 1930?",
+          "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Quit India Movement", "Swadeshi Movement"],
+          "correct_answer": "Civil Disobedience Movement",
+          "explanation": "The Salt March to Dandi in March–April 1930 officially marked the launch of the Civil Disobedience Movement."
+        }
+      ]
+    }
+  ]
+}
